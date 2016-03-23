@@ -16,7 +16,7 @@ public class MathTest {
 
 		Math m = new Math();
 
-		assertTrue(m.isEven(22));
+		assertTrue(m.isEven(23));
 
 	}
 	@Test
